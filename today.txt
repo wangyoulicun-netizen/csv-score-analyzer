@@ -1,0 +1,20 @@
+import csv
+
+scores = []
+
+with open("scores.csv", encoding="utf-8") as f:
+	reader = csv.reader(f)
+	next(reader)
+	for row in reader:
+	 scores.append(int(row[1]))
+
+average = sum(scores) / len(scores)
+maximum = max(scores)
+minimum = min(scores)
+
+with open("result.txt", "w", encoding="utf-8") as f:
+	f.write(f"平均点: {average}\n")
+	f.write(f"最高点: {maximum}\n")
+	f.write(f"最低点: {minimum}\n")
+
+print("集計完了　result.txt を確認してください")
