@@ -1,0 +1,6 @@
+product_id,name,price,category,image_filename
+1,Tシャツ,2000,A,shirt.jpg
+2,スニーカー,8000,B,shoes.jpg
+3,帽子,1500,C,hat.jpg
+4,パーカー,6000,B,parka.jpg
+5,イヤホン,12000,A,earphone.jpg
