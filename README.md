@@ -21,3 +21,14 @@
 
 ## 課題
 - output.2.csvのTシャツ・2200となってしまう
+
+## Example Use
+This script is useful for:
+- EC product registration
+- Price calculation (tax included)
+- CSV data cleanup and formatting
+
+## Output
+- Reads product data from CSV
+- Converts prices automatically
+- Outputs clean, structured data
