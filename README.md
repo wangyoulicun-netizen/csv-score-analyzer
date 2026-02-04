@@ -32,3 +32,13 @@ This script is useful for:
 - Reads product data from CSV
 - Converts prices automatically
 - Outputs clean, structured data
+
+2/4
+## Use Case
+- Product listing for EC platforms (Amazon / eBay)
+- CSV-based product data management
+
+## Price Adjustment Tool
+This script updates product prices in a CSV file by a fixed percentage.
+Useful for bulk price changes in EC product listings.
+I was able to accomplish yesterday's task.
