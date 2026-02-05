@@ -53,3 +53,5 @@ I was able to accomplish yesterday's task.
 
 - - Checks mismatches between product CSV and image files to prevent upload errors.
 
+- Automatically normalizes image file extensions to .jpg for EC compatibility.
+
