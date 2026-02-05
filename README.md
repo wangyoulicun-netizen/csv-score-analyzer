@@ -42,3 +42,11 @@ This script is useful for:
 This script updates product prices in a CSV file by a fixed percentage.
 Useful for bulk price changes in EC product listings.
 I was able to accomplish yesterday's task.
+
+2/5
+- Prevents invalid price changes by validating percentage ranges.
+## Features
+- Adjust prices by specified percentage
+- Preserve original CSV file
+- Output Excel-safe UTF-8 CSV
+- Validate input range to prevent mistakes
