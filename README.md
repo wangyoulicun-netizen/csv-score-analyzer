@@ -50,3 +50,6 @@ I was able to accomplish yesterday's task.
 - Preserve original CSV file
 - Output Excel-safe UTF-8 CSV
 - Validate input range to prevent mistakes
+
+- - Checks mismatches between product CSV and image files to prevent upload errors.
+
